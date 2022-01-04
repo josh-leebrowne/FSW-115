@@ -1,0 +1,64 @@
+{
+    "menu": [
+        {
+        "appetizers": {
+            "wings": {
+                "description": "The best bar food in town",
+                "ingredients": ["buffalo sauce", "chicken"]
+                }
+            },
+            "fried pickles": {
+                "description": "Pickles fried using our home made organic grease",
+                "ingredients": ["pickeles", "batter"]
+            }
+        },
+        {
+        "cold sandwiches": {
+            "ham and cheese": {
+                "description": "A classic Ham and Cheese sandwich",
+                "ingredients": ["ham", "cheese"]
+                } 
+            },
+            "BLT": {
+                "description": "Bacon, Lettuce, and Tomato",
+                "ingredients": ["bacon", "lettuce", "tomato"]
+            }
+        },
+        {
+        "hot sandwiches": {
+            "grilled cheese": {
+                "description": "Cheese that is grilled",
+                "ingredients": ["cheese", "bread"]
+                } 
+            },
+            "panini": {
+                "description": "A nice melted sandwich that isn't a grilled cheese",
+                "ingredients": ["also cheese", "also bread"]
+            }
+        },
+        {
+        "deserts": {
+            "icecream": {
+                "description": "Ice in cream form",
+                "ingredients": ["ice", "milk"]
+                }
+            },
+            "cake": {
+                "description": "A piece of gooey chocolate cake",
+                "ingredients": ["milk", "eggs", "butter", "cocoa"]
+            }
+        },
+        {
+        "drinks": {
+            "water": {
+                "description": "Water",
+                "ingredients": ["Water"]
+                }
+            },
+            "milk": {
+                "description": "Milk",
+                "ingredients": ["Milk"]
+            }
+        }
+    ]
+}
