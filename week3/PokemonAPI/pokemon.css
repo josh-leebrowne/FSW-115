@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    background-color: rgb(211, 204, 115);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
