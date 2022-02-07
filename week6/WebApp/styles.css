@@ -1,0 +1,11 @@
+*{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    margin: 5px 0 5px 0;
+
+}
